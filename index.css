@@ -88,12 +88,17 @@ ul li {
 .text-color-blue {
     color: #5cb2f9;
 }
-
+.price-title{
+    font-size: 32px;
+    margin: auto;
+    padding: 25px;
+    
+}
 .price-text {
     margin-top: -15px;
     color: #5f727f;
-}
 
+}
 .bg-img {
     position: relative;
 }
@@ -119,6 +124,7 @@ ul li {
     font-weight: 100;
     text-transform: uppercase;
     color: white;
+    font-size: 32px;
 }
 
 .text-img-text {
